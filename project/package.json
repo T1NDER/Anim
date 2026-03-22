@@ -7,7 +7,7 @@
     "start": "webpack serve --open",
     "build": "webpack --mode production",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d docs"
   },
   "devDependencies": {
     "webpack": "^5.88.0",
