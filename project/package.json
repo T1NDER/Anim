@@ -1,5 +1,6 @@
 {
   "name": "collapse-widget",
+  "homepage": "https://T1NDER.github.io/Anim",
   "version": "1.0.0",
   "description": "Homework: Animations and CSS - Collapse Widget",
   "main": "src/index.js",
